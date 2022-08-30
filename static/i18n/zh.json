@@ -34,7 +34,7 @@
   "text-level-1": "您也被良怒暴打了啊哈哈",
   "text-level-2": "有没有看到另一个我？",
   "text-level-3": "底力曲有手就行对吧？",
-  "text-level-4": "您",
+  "text-level-4": "这可是您最大的错误..",
   "text-level-5": "好美啊...",
   "time-over": "倒计时多了",
   "rank-title": "AP良怒-排行榜",
@@ -52,7 +52,7 @@
   "query-input": "要查询的名字",
   "search-btn": "查询",
   "no-data": "现在还没有数据",
-  "no-message": "这个人很懒什么也没留下",
+  "no-message": "空 空 如 也",
   "self-record": "{name} 的最高记录. 已上传 {attempts} 次<br/>SCORE:{score} {time}",
   "no-self-record": "没有找到 {name} 的记录(或被过滤)",
   "no-name-tip": "提示：你玩之前还没有填名字"
