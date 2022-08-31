@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/goodragesky/APgoodrage/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="APgoodrage - forked from EatKano"></a>
+  <a href="https://goodragesky.github.io/APgoodrage"><img src="https://github.com/GoodrageSky/APgoodrage/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="APgoodrage - forked from EatKano"></a>
 </p>
 <div align="center">
 
