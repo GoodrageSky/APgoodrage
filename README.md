@@ -14,7 +14,7 @@ _👍 网页小游戏 💢_
 
 ## 简介
 
-小游戏：AP良怒/吃掉小鹿乃
+小游戏：AP良怒/吃掉小鹿乃（原版）
 
 [English](README_EN.md)
 |
@@ -23,6 +23,11 @@ _👍 网页小游戏 💢_
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
 [Github Pages](https://arcxingye.github.io/EatKano/index.html)
+
+公告：可能发布的功能（作者是个鸽子咕咕咕）
+可能会有排行榜？（雾
+新玩法：向上不一定向前
+Another Me乱入（等我先把图画出来吧
 
 ## 可选功能
 
