@@ -1,18 +1,20 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/goodragesky/APgoodrage/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="APgoodrage - forked from EatKano"></a>
 </p>
 <div align="center">
 
-# EatKano
+# APLadoTissimo - forked from EatKano
+  
+  啊啊啊啊啊啊懒得改了
 
-_🦌 网页小游戏 🥛_
+_👍 网页小游戏 💢_
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：AP良怒/吃掉小鹿乃
 
 [English](README_EN.md)
 |
