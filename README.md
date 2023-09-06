@@ -18,11 +18,9 @@ _👍 网页小游戏 💢_
 
 [English](README_EN.md)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[原版](https://xingye.me/game/eatkano/index.php)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[原版Github主页](https://arcxingye.github.io/EatKano/index.html)
 
 公告：可能发布的功能（作者是个鸽子咕咕咕）
 可能会有排行榜？（雾
